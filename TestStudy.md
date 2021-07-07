@@ -62,3 +62,4 @@
 </li>
 </ul>
 
+Link tipos de Asserts - http://junit.sourceforge.net/javadoc/org/junit/Assert.html
